@@ -1,1 +1,1 @@
-![My Cover](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/header.png)
+![My Cover](https://github.com/sindresorhus）
